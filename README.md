@@ -14,7 +14,7 @@
 
 - 🛠️ I’m currently working on **Drug__Interaction_Prediction** tools and other side projects  
 - 🎮 I’m currently playing **Apex Legends / League of Legends**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-17405028a/)  
+- 📫 How to reach me: [ahmed.mohammed@bison.howard.edu](mailto:ahmed.mohammed@bison.howard.edu)  
 - 📄 Here is my [resume](https://github.com/ahmed-shami/resume/blob/main/Ahmed%20Mohammed's%20Resume.pdf)
 
 ###
