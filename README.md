@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.tenor.com/9K9b2Y1-1dAAAAAi/kirby-on-a-warp-star.gif](https://media.tenor.com/t23gPPRJKTMAAAAm/kirby-on-a-warp-star.webp)" alt="Kirby on a warp star" width="200" />
+  <img src="https://media.tenor.com/9K9b2Y1-1dAAAAAi/kirby-on-a-warp-star.gif" alt="Kirby on a warp star" width="200" />
 </div>
 
 <h2 align="center">Hi 👋! My name is Ahmed Mohammed</h2>
