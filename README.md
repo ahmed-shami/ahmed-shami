@@ -16,6 +16,7 @@
 - 🎮 I’m currently playing **Apex Legends / League of Legends**  
 - 📫 How to reach me: [ahmed.mohammed@bison.howard.edu](mailto:ahmed.mohammed@bison.howard.edu)  
 - 📄 Here is my [resume](https://github.com/ahmed-shami/resume/blob/main/Ahmed%20Mohammed's%20Resume.pdf)
+- ⚡ Fun fact I speak 4 languages
 
 ###
 
