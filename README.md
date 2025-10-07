@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/kirby.gif" alt="Kirby on a warp star" width="200" />
+  <img src="./assets/kirby.gif" alt="Kirby on a warp star" width="300" />
 </div>
 
 <h2 align="center">Hi 👋! My name is Ahmed Mohammed</h2>
