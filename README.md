@@ -12,7 +12,7 @@
 
 </div>
 
-- 🛠️ I’m currently working on **Drug-Drug Interaction** tools and other side projects  
+- 🛠️ I’m currently working on **Drug__Interaction_Prediction** tools and other side projects  
 - 🎮 I’m currently playing **Apex Legends / League of Legends**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-17405028a/)  
 - 📄 Here is my [resume](https://github.com/ahmed-shami/resume/blob/main/Ahmed%20Mohammed's%20Resume.pdf)
