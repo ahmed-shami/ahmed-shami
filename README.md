@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**I am a software developer and a passionate, budding builder.**
+<h2 **I am a computer science student at Howard University and a passionate and growing coder.**
 
 </div>
 
