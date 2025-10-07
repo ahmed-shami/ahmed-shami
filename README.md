@@ -9,7 +9,7 @@
 </div>
 
 - 🛠️ I’m currently working on **Drug-Drug Interaction** tools and other side projects  
-- 🎮 I’m currently playing **Apex Legends / Hogwarts Legacy**  
+- 🎮 I’m currently playing **Apex Legends / Overwatch**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-17405028a/)  
 - 📄 Here is my [resume](https://github.com/ahmed-shami/resume/blob/main/Ahmed%20Mohammed's%20Resume.pdf)
 
