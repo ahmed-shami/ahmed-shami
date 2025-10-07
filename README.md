@@ -2,7 +2,11 @@
 
 ###
 
-align="center">**I am a computer science student at Howard University and a passionate and growing coder.**
+<div align="center">
+
+**I am a software developer and a passionate, budding builder.**
+
+</div>
 
 - 🛠️ I’m currently working on **Drug-Drug Interaction** tools and other side projects  
 - 🎮 I’m currently playing **Apex Legends / Hogwarts Legacy**  
